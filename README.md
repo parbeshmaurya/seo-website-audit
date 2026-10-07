@@ -3,14 +3,22 @@ SEO Website Audit Skill
 A Claude skill that audits a website for SEO and AI search visibility, then gives a prioritized fix list.
 
 Get inputs 
+
 Site URL
+ 
 Business type (B2B / B2C / local / ecommerce / SaaS)
+
 Main goal (leads, sales, calls, traffic)
+
 Top 3 target keywords or services
+
 Target country/city
+
 2-3 competitors (optional)
+
 Any data they can share: Search Console export, Ahrefs/Semrush audit, PageSpeed report
 If a connected tool is available (Ahrefs, Semrush site audit, Search Console), use it first. Otherwise fetch pages directly and say which checks could not be done.
+
 
 Report format
 Summary (3-4 lines): overall health and the biggest problem.
