@@ -2,7 +2,7 @@ SEO Website Audit Skill
 
 A Claude skill that audits a website for SEO and AI search visibility, then gives a prioritized fix list.
 
-Get inputs (ask only what is missing)
+Get inputs 
 Site URL
 Business type (B2B / B2C / local / ecommerce / SaaS)
 Main goal (leads, sales, calls, traffic)
